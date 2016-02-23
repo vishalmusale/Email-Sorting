@@ -1,0 +1,34 @@
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\Email.exe.config
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\Email.exe
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\Email.pdb
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\EntityFramework.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\System.Data.SQLite.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\EntityFramework.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\bin\Release\System.Data.SQLite.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\obj\Release\Email.Form1.resources
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\obj\Release\Email.Properties.Resources.resources
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\obj\Release\Email.csproj.GenerateResource.Cache
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\obj\Release\Email.exe
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Email\Email\obj\Release\Email.pdb
+E:\Projects\Email\Email\bin\Release\Email.exe.config
+E:\Projects\Email\Email\bin\Release\Email.exe
+E:\Projects\Email\Email\bin\Release\Email.pdb
+E:\Projects\Email\Email\bin\Release\EntityFramework.dll
+E:\Projects\Email\Email\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\Email\Email\bin\Release\System.Data.SQLite.dll
+E:\Projects\Email\Email\bin\Release\System.Data.SQLite.EF6.dll
+E:\Projects\Email\Email\bin\Release\System.Data.SQLite.Linq.dll
+E:\Projects\Email\Email\bin\Release\EntityFramework.xml
+E:\Projects\Email\Email\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\Email\Email\bin\Release\System.Data.SQLite.xml
+E:\Projects\Email\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+E:\Projects\Email\Email\obj\Release\Email.Form1.resources
+E:\Projects\Email\Email\obj\Release\Email.Properties.Resources.resources
+E:\Projects\Email\Email\obj\Release\Email.csproj.GenerateResource.Cache
+E:\Projects\Email\Email\obj\Release\Email.exe
+E:\Projects\Email\Email\obj\Release\Email.pdb

@@ -1,0 +1,34 @@
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.exe.config
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.Form1.resources
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.Properties.Resources.resources
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.exe
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.pdb
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\EntityFramework.dll
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\System.Data.SQLite.dll
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\EntityFramework.xml
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\bin\Debug\System.Data.SQLite.xml
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.exe
+c:\users\vishal\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.pdb
+E:\Projects\Email\Email\bin\Debug\Email.exe.config
+E:\Projects\Email\Email\obj\Debug\Email.exe
+E:\Projects\Email\Email\obj\Debug\Email.pdb
+E:\Projects\Email\Email\bin\Debug\Email.exe
+E:\Projects\Email\Email\bin\Debug\Email.pdb
+E:\Projects\Email\Email\bin\Debug\EntityFramework.dll
+E:\Projects\Email\Email\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Email\Email\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Email\Email\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projects\Email\Email\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projects\Email\Email\bin\Debug\EntityFramework.xml
+E:\Projects\Email\Email\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Email\Email\bin\Debug\System.Data.SQLite.xml
+E:\Projects\Email\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+E:\Projects\Email\Email\obj\Debug\Email.Form1.resources
+E:\Projects\Email\Email\obj\Debug\Email.Properties.Resources.resources
+E:\Projects\Email\Email\obj\Debug\Email.csproj.GenerateResource.Cache
